@@ -1,0 +1,10 @@
+Parte 3
+
+hay una clase aprendis, y una clase curso
+un aprendiz tiene varios cursos
+un curso esta asociado a un aprendiz
+Aprendiz: nombre apellido avatar edad Nivel Educativo
+Curso: nombre horas calificacion certificado año
+
+
+clase con atributos y metodo constructor
