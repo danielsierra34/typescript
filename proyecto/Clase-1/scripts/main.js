@@ -1,0 +1,10 @@
+console.log("Hola Mundof");
+var mitexto = "Hola mundo de nuevo";
+console.log(mitexto);
+var tagUno = "<div class = \"ejemplo\">";
+var tagDos = "<div class = 'ejemplo'>";
+console.log(tagUno);
+console.log(tagDos);
+console.log("Esta es una linea\nEsta es otra linea");
+console.log("Esta es la primera linea\n    Esta es la segunda linea");
+console.log("El valor de la variable es ".concat(mitexto));

@@ -1,0 +1,19 @@
+Parte 1
+
+    se debe instalar npm con
+    sudo apt-get install npm
+
+    se debe instalar typescript de manera global
+    sudo npm install typescript -g
+
+    se crea el archivo de  typescript y se compila en js con 
+    tsc main.ts -outdir scripts
+
+    se instala la extension live server
+    
+    se crea un index html donde se referencia el js generado
+
+    y se abre el index con live server.
+    cada vez que se cambie el codigo se refresca automaticamente
+
+    se aprendieron los tipos de comillas
