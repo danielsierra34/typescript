@@ -8,3 +8,15 @@ Curso: nombre horas calificacion certificado año
 
 
 clase con atributos y metodo constructor
+
+
+
+se crea el archivo de compilacion ts.config con un json
+
+se crea el index html
+
+se crea la clase aprendiz y el enum del nivel Educativo
+
+se crea el main.ts se llaman las dos clases, se instancia un aprendiz y se exporta
+
+y corre el tsc con tsc -p ./ts.config.json 
