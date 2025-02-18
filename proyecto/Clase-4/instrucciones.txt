@@ -1,0 +1,9 @@
+Parte 4
+
+no se llama ts.config sino tsconfig
+
+en una funcion main.js se importa la clase aprendiz y su enum
+se instancia un aprendiz
+y se ejecuta la funcion mostrar aprendiz
+esta funcion crea un elemento html tbody
+crea una variable donde agrega todas las toPrecisiony luego le hace un append
